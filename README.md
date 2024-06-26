@@ -1,1 +1,0 @@
-# pos-point-of-sale
